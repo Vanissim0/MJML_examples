@@ -1,0 +1,149 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+        <mj-attributes>
+            <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" 
+            color="#ffffff" padding="0px"/>
+            <mj-image  padding="0px" src="" alt="" />
+            <mj-button background-color="#D1AA5A" font-size="14px" color="#000000" font-family="Quantico,
+            sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="200px"/>
+            <mj-section padding="0px" background-color="#000000" />
+            <mj-class name="head-text" font-size="40px" line-height="60px" text-transform="uppercase" />
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body background-color="#f1f1f1">
+
+    <!-- logo section  -->
+        <mj-section>
+            <mj-column>
+                <mj-image href="https:/google.com" width="120px" padding="20px" src="/img/logo.png" alt="logo" />
+            </mj-column>
+        </mj-section>
+
+        <!-- welcome logo -->
+        <mj-section>
+            <mj-column>
+                <mj-image href="https:/google.com" src="/img/hero_image.png" alt="logo" />
+            </mj-column>
+        </mj-section>
+
+        <!-- discount section -->
+        <mj-section padding-top="80px">
+            <mj-column>
+                <mj-image href="https:/google.com" width="500px" padding-left="50px" padding-right="50px" src="/img/discount_image.png" 
+                alt="Thank for signing uo warrior. Enjoy 10% off your next order!" />
+                <mj-button href="https:/google.com" padding-top="20px">
+                    Get 10% off now
+                </mj-button>
+                <mj-text font-size="12px">
+                    Or Use Code: 123XYZ456 At Checkout
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- why section  -->
+        <mj-section padding-top="80px" padding-left="20px" padding-right="20px">
+            <mj-column width="400px" padding-bottom="15px">
+                <mj-text mj-class="head-text">
+                    Why Warstick?
+                </mj-text>
+            </mj-column>
+            <mj-column width="420px">
+                <mj-text>
+                    We design uniquely original sporting good for people looking for more substance and style from their stic,
+                    without sacrifising perfomance.
+                </mj-text>
+                <mj-image href="https:/google.com" src="/img/why_image.png" alt="learn more" />
+            </mj-column>
+        </mj-section>
+
+        <!-- video section  -->
+        <mj-section padding-top="80px">
+            <mj-column width="400px" padding-bottom="15px">
+                <mj-text mj-class="head-text" padding-left="20px" padding-right="20px">
+                    be the srotm
+                </mj-text>
+                <mj-text>
+                    check out our latest video.
+                </mj-text>
+                <mj-image href="https:/google.com" padding-top="20px" src="/img/video_image.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+
+        <!-- services section  -->
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="30px" text-transform="uppercase" padding-left="20px" padding-right="20px">
+                    Outstanding service
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- garantees section  -->
+        <mj-section padding-top="30px" padding-left="50px" padding-right="50px">
+            <mj-column width="200px" padding="20px">
+                <mj-image width="40px" src="/img/truck.png" alt="" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Express Delivery
+                </mj-text>
+            </mj-column>
+            <mj-column width="200px" padding="20px">
+                <mj-image width="40px" src="/img/truck.png" alt="" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Express Delivery
+                </mj-text>
+            </mj-column>
+            <mj-column width="200px" padding="20px">
+                <mj-image width="40px" src="/img/truck.png" alt="" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Express Delivery
+                </mj-text>
+            </mj-column>
+            <mj-column width="200px" padding="20px">
+                <mj-image width="40px" src="/img/truck.png" alt="" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Express Delivery
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- pay section  -->
+        <mj-section padding-top="10px" padding-bottom="80px">
+            <mj-column>
+                <mj-text>
+                    <img src="/img/pay1.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay2.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay3.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay4.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay5.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay6.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/pay7.png" alt="" width="35px" style="padding: 5px;" />
+                    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- footer section  -->
+        <mj-section background-color="#F6F6EF" padding-bottom="30px">
+            <mj-column width="300px" padding-top="30px">
+                <mj-text>
+                    <img src="/img/facebook.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/instagram.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/twitter.png" alt="" width="35px" style="padding: 5px;" />
+                    <img src="/img/youtube.png" alt="" width="35px" style="padding: 5px;" />
+                </mj-text>
+                <mj-text color="#303030" font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint voluptate harum eligendi dolor <br/> <br/>
+                    animi consectetur, nesciunt autem suscipit, commodi, illo vitae consequatur cumque doloribus  <br/> <br/>
+                    iure. Sint reiciendis consequatur corporis quaerat?
+                </mj-text>
+                <mj-text  font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px">
+                    <a href="https:/google.com" style="color:#303030;"> Unsubcribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+    </mj-body>
+</mjml>
